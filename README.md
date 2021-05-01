@@ -1,4 +1,4 @@
-### Hi there 👋
+### 고딩왕 코범석 깃허브 👋
 
 <!--
 **kobeomseok95/kobeomseok95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
