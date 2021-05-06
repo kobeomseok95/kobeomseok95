@@ -1,4 +1,4 @@
-## 고딩왕 코범석 깃허브 👋
+## 👋 고딩왕 코범석 깃허브
 
 <!--
 **kobeomseok95/kobeomseok95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 약력
+### ⚓ 약력
 - 수원대학교 컴퓨터학과 졸업 (2014.03 ~ 2020.02)
 - KH정보교육원 웹개발 교육과정 수료 (2019.12 ~ 2020.08)
 - 소프트웨어 마에스트로 12기 연수생 (2021.04 ~ )
 
-### 스터디 및 외부활동
+### 🏭 스터디 및 외부활동
 - 잠실 스프링부트 스터디 (2020.11 ~ )
 - 잠실 알고리즘 스터디 (2020.11 ~ )
+
+### 🎓현재 관심분야 및 학습분야
+- Linux
+- Spring
+- MSA
+- Infra (Docker, AWS, etc...)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
