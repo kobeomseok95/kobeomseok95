@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 잠실 알고리즘 스터디 (2020.11 ~ )
 
 ### 🎓현재 관심분야 및 학습분야
-- Linux
 - Spring
 - MSA
 - Infra (Docker, AWS, etc...)
