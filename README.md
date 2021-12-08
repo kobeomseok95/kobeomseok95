@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🎓현재 관심분야 및 학습분야
 - Spring
-- MSA
+- Clean Code
 - Infra (Docker, AWS, etc...)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
