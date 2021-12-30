@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ### 🎓현재 관심분야 및 학습분야
 - Spring
-- Clean Code
-- Infra (Docker, AWS, etc...)
+- Clean Code & Clean Architecture
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
