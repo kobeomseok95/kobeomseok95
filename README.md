@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 - Spring
 - Clean Code & Clean Architecture
 
+### 세미나 & 발표
+- [Querydsl (2022.01.15) 제작 예정](https://www.youtube.com)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
