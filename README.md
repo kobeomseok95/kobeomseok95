@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 - Clean Code & Clean Architecture
 
 ### 🙋‍♂️ 세미나 & 발표
-- [Querydsl (2022.01.15) 제작 예정](https://www.youtube.com)
+- [Querydsl (2022.01.15) 제작 예정](https://www.slideshare.net/ssuserd717021/querydsl-250999857)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
