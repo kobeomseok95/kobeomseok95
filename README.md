@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 - Clean Code & Clean Architecture
 
 ### 🙋‍♂️ 세미나 & 발표
-- [Querydsl](https://www.slideshare.net/ssuserd717021/querydsl-250999857)
+- [Querydsl](https://www.slideshare.net/ssuserd717021/querydsl-250999857){:target="_blank"}
 
 ### 개인 학습 정리 공간
-- [학습 정리 노션](https://kobeomseok95.notion.site/kobeomseok95/f76282441e564baaaa994a3c98ac0948)
+- [학습 정리 노션](https://kobeomseok95.notion.site/kobeomseok95/f76282441e564baaaa994a3c98ac0948){:target="_blank"}
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kobeomseok95)](https://solved.ac/kobeomseok95/){:target="_blank"}
