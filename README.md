@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 - 넘블 백엔드 챌린지 상위 10% (2022.01.07 ~ 2022.01.23)
 - MakeUs 9기 Server 파트 (2022.01 ~ 2022.04)
 
-### 🏭 스터디
-- 잠실 알고리즘 스터디 (2020.11 ~ 2022.1)
-
 ### 🎓 현재 관심분야 및 학습분야
-- Spring
-- Clean Code & Clean Architecture
+- Kotlin
+- DDD
 
 ### 🙋‍♂️ 세미나 & 발표
 - [Querydsl](https://www.slideshare.net/ssuserd717021/querydsl-250999857)
